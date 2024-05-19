@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SW4 Old Footprint=SW/3/SPDT/POWER New Footprint=SW/3/SPDT/POWER/6A
+Added Room: Name=LoraWAN_Node

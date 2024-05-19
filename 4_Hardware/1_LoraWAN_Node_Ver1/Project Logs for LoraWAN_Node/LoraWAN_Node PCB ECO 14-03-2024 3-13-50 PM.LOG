@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetLED7_1 Pin=U7-17
+Added Pin To Net: NetName=NetLED7_1 Pin=U7-11
+Added Room: Name=LoraWAN_Node

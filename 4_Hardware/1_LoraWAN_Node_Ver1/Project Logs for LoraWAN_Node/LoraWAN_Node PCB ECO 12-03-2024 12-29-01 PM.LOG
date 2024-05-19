@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RS485_A Pin=P5-1
+Removed Pin From Net: NetName=RS485_B Pin=P5-2
+Added Pin To Net: NetName=RS485_B Pin=P5-1
+Added Pin To Net: NetName=RS485_A Pin=P5-2
+Added Room: Name=LoraWAN_Node

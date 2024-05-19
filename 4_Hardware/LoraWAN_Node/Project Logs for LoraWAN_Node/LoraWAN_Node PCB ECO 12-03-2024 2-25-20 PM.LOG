@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RS485_B Pin=U7-8
+Removed Pin From Net: NetName=RS485_A Pin=U7-12
+Added Pin To Net: NetName=RS_TX Pin=U7-8
+Added Pin To Net: NetName=RS_RX Pin=U7-12
+Added Member To Class: ClassName=LoraWAN_Node Member=Component BT1 BK-18650-PC4
+Added Room: Name=LoraWAN_Node

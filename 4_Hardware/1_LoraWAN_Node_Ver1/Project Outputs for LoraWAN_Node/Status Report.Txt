@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [LoraWAN_Node.PrjPcb]
+   Generated File[LoraWAN_Node_Copper_Signal_Top.gbr]
+   Generated File[LoraWAN_Node_Copper_Signal_Bot.gbr]
+   Generated File[LoraWAN_Node_Pads_Bot.gbr]
+   Generated File[LoraWAN_Node_Pads_Top.gbr]
+   Generated File[LoraWAN_Node_Legend_Bot.gbr]
+   Generated File[LoraWAN_Node_Soldermask_Bot.gbr]
+   Generated File[LoraWAN_Node_Paste_Bot.gbr]
+   Generated File[LoraWAN_Node_Legend_Top.gbr]
+   Generated File[LoraWAN_Node_Paste_Top.gbr]
+   Generated File[LoraWAN_Node_Soldermask_Top.gbr]
+   Generated File[LoraWAN_Node_Mechanical_13.gbr]
+   Generated File[LoraWAN_Node_Mechanical_1.gbr]
+   Generated File[LoraWAN_Node_Mechanical_15.gbr]
+   Generated File[LoraWAN_Node_Profile.gbr]
+   Generated File[LoraWAN_Node_NPTH_Drill.gbr]
+   Generated File[LoraWAN_Node_PTH_Drill.gbr]
+   Generated File[LoraWAN_Node_Drawing_1.gbr]
+   Generated File[LoraWAN_Node_Drillmap_1.gbr]
+   Generated File[LoraWAN_Node.RUL]
+   Generated File[LoraWAN_Node.EXTREP]
+   Generated File[LoraWAN_Node.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 4:00:23 PM On 14/03/2024

@@ -1,0 +1,10 @@
+12:41:52.071 > Publish to Topic: v3/test-atom-eu1@ttn/devices/e220-p2p/down/push
+12:41:52.071 > Payload: {"downlinks": [{"f_port": 15,"frm_payload": "
+12:41:52.071 > 
+12:41:52.071 > 
+12:41:52.071 > ","priority": "NORMAL"}]}
+12:41:55.944 > HTTP Code: 200
+12:41:58.824 > Send: 
+12:41:58.824 > 
+12:41:58.824 > 
+12:41:58.824 > 

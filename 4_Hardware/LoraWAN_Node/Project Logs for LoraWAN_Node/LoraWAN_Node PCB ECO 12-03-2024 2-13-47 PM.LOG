@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=16V Pin=R24-2
+Change Net Name : Old Net Name=16V New Net Name=+16
+Added Pin To Net: NetName=16V Pin=R24-2
+Added Net: Name=16V
+Added Room: Name=LoraWAN_Node

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=SW4 Old Footprint=SW/3/SPDT/POWER/6A New Footprint=SW/3/SPDT/SS12D10
+Change component parameters: Designator = "SW4" ("SW4"); Footprint = "SW/3/SPDT/POWER/6A"; UniqueID = "\PZKELHCM" ("\PZKELHCM")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=LoraWAN_Node

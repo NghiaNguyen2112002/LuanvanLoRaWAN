@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=J2 Old Footprint=JUMP/2/Close New Footprint=JUMP/2/SMD/C
+Added Room: Name=LoraWAN_Node

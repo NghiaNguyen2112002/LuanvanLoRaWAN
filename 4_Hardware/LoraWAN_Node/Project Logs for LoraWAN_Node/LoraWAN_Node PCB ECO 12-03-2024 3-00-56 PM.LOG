@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetP8_1 Pin=RL1-COM
+Removed Pin From Net: NetName=NetP8_2 Pin=RL1-NO
+Removed Pin From Net: NetName=NetP9_1 Pin=RL2-COM
+Removed Pin From Net: NetName=NetP9_2 Pin=RL2-NO
+Removed Pin From Net: NetName=NetP10_1 Pin=RL3-COM
+Removed Pin From Net: NetName=NetP10_2 Pin=RL3-NO
+Removed Pin From Net: NetName=NetP11_1 Pin=RL4-COM
+Removed Pin From Net: NetName=NetP11_2 Pin=RL4-NO
+Added Pin To Net: NetName=NetP8_2 Pin=RL1-COM
+Added Pin To Net: NetName=NetP8_1 Pin=RL1-NO
+Added Pin To Net: NetName=NetP9_2 Pin=RL2-COM
+Added Pin To Net: NetName=NetP9_1 Pin=RL2-NO
+Added Pin To Net: NetName=NetP10_2 Pin=RL3-COM
+Added Pin To Net: NetName=NetP10_1 Pin=RL3-NO
+Added Pin To Net: NetName=NetP11_2 Pin=RL4-COM
+Added Pin To Net: NetName=NetP11_1 Pin=RL4-NO
+Added Room: Name=LoraWAN_Node

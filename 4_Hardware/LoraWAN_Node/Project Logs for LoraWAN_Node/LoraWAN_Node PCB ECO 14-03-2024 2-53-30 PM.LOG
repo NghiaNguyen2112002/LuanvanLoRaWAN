@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GPS_RX Pin=U7-16
+Added Pin To Net: NetName=GPS_RX Pin=U7-14

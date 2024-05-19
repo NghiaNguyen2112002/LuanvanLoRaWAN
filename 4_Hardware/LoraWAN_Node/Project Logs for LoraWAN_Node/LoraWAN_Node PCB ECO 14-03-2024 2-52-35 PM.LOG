@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GPS_RX Pin=U7-30
+Removed Pin From Net: NetName=GPS_TX Pin=U7-31
+Added Pin To Net: NetName=GPS_TX Pin=U7-13
+Added Pin To Net: NetName=GPS_RX Pin=U7-16
+Added Room: Name=LoraWAN_Node

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RL1 Pin=U7-10
+Removed Pin From Net: NetName=BAT_LEVEL Pin=U7-27
+Added Pin To Net: NetName=BAT_LEVEL Pin=U7-10
+Added Pin To Net: NetName=RL1 Pin=U7-27
