@@ -190,12 +190,12 @@ const Chart = () => {
                         Temperature
                       </Text>
                       <LineChart
-                        maxValue={
-                          Math.ceil(extraTemp.max) - Math.floor(extraTemp.min)? Math.ceil(extraTemp.max) - Math.floor(extraTemp.min):1
-                        }
+                        // maxValue={
+                        //   Math.ceil(extraTemp.max) - Math.floor(extraTemp.min)? Math.ceil(extraTemp.max) - Math.floor(extraTemp.min):1
+                        // }
                         data={[...temperature]}
                         height={250}
-                        yAxisOffset={Math.floor(extraTemp.min)}
+                        // yAxisOffset={Math.floor(extraTemp.min)}
                         width={280}
                         showVerticalLines
                         spacing={20}
